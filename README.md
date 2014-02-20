@@ -1,7 +1,7 @@
 URMsim
 ======
 
-Simple simulator for The Universal Register Machine
+Simple simulator for The Universal Register Machine as a Haskell library.
 
 I wrote this trivial library when taking a course on Computability Theory.
 
